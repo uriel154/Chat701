@@ -1,4 +1,4 @@
-var socket = io.connect('http://18.118.199.31:5000');
+var socket = io.connect('http://18.188.66.169:5000');
 
 // Elementos del DOM
 var persona = document.getElementById('login-usuario'),
